@@ -5,7 +5,7 @@ public class Chemistry {
       "lactic acid", "oxalic acid",
       "mallonic acid", "succinic acid", "gluteric acid", "adipic acid", "tartaric acid", "maleic acid", "fumeric acid",
       "ketopinic acid",
-      "gluconic acid", "glcaric acid", "sachharic acid", "toluene", "benzoic acid", "nitrobenzene", "oil of mirbane",
+      "gluconic acid", "glucaric acid", "sachharic acid", "toluene", "benzoic acid", "nitrobenzene", "oil of mirbane",
       "ortho xylene",
       "meta xylene", "para xylene", "phthalic acid", "phenol", "benzene sulphonic acid", "ethyl benzene", "aniline",
       "chlorobenzene", "benzaldehyde",
